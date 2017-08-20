@@ -1,0 +1,14 @@
+[package]
+name = "car_registration"
+version = "0.1.0"
+authors = ["Infinite Loop <info@infiniteloop.ie>"]
+description = "Look up car registration information in most European countries, USA and Australia. An account is required from http://www.vehicleregistrationapi.com"
+documentation = "http://wp.me/P16d92-Yc"
+homepage = "http://www.vehicleregistrationapi.com"
+repository = "http://www.vehicleregistrationapi.com"
+license = "free"
+
+[dependencies]
+curl = "0.4.8"
+base64 = "~0.6.0"
+serde_json = "1.0"
