@@ -6,7 +6,7 @@ description = "Look up car registration information in most European countries, 
 documentation = "http://wp.me/P16d92-Yc"
 homepage = "http://www.vehicleregistrationapi.com"
 repository = "http://www.vehicleregistrationapi.com"
-license = "free"
+license = "MIT"
 
 [dependencies]
 curl = "0.4.8"
